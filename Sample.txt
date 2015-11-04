@@ -12,3 +12,5 @@ pull 取得遠端數據庫的內容
 
 測試衝突
 
+GITGUI test
+
